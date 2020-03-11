@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VictoryUMG.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\Unreal Projects\Sex_Simulator 4.20\Intermediate\Build\Win64\Sex_SimulatorEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"H:\Unreal Projects\Sex_Simulator 4.20\Plugins\VictoryUMG14\Intermediate\Build\Win64\UE4Editor\Development\VictoryUMG\Module.VictoryUMG.cpp.obj"
+"H:\Unreal Projects\Sex_Simulator 4.20\Plugins\VictoryUMG14\Intermediate\Build\Win64\UE4Editor\Development\VictoryUMG\Module.VictoryUMG.gen.cpp.obj"
+"H:\Unreal Projects\Sex_Simulator 4.20\Plugins\VictoryUMG14\Intermediate\Build\Win64\UE4Editor\Development\VictoryUMG\PCLaunch.rc.res"
+/OUT:"H:\Unreal Projects\Sex_Simulator 4.20\Plugins\VictoryUMG14\Intermediate\Build\Win64\UE4Editor\Development\VictoryUMG\UE4Editor-VictoryUMG.lib"

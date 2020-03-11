@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HnomerBPLibraryPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\Unreal Projects\Sex_Simulator Source\Intermediate\Build\Win64\Sex_SimulatorEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"H:\Unreal Projects\Sex_Simulator Source\Plugins\HnomerBPLibraryPlugin\Intermediate\Build\Win64\UE4Editor\Development\HnomerBPLibraryPlugin\Module.HnomerBPLibraryPlugin.cpp.obj"
+"H:\Unreal Projects\Sex_Simulator Source\Plugins\HnomerBPLibraryPlugin\Intermediate\Build\Win64\UE4Editor\Development\HnomerBPLibraryPlugin\Module.HnomerBPLibraryPlugin.gen.cpp.obj"
+"H:\Unreal Projects\Sex_Simulator Source\Plugins\HnomerBPLibraryPlugin\Intermediate\Build\Win64\UE4Editor\Development\HnomerBPLibraryPlugin\PCLaunch.rc.res"
+/OUT:"H:\Unreal Projects\Sex_Simulator Source\Plugins\HnomerBPLibraryPlugin\Intermediate\Build\Win64\UE4Editor\Development\HnomerBPLibraryPlugin\UE4Editor-HnomerBPLibraryPlugin.lib"

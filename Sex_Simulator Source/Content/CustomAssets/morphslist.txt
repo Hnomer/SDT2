@@ -1,0 +1,64 @@
+*Nose*
+Shape 1#Genesis3Female__Nose Shape 1#-1.0#1.0#0.0
+Shape 2#Genesis3Female__Nose Shape 2#-1.0#1.0#0.0
+Petite#Genesis3Female__Nose Petite 2#-1.0#1.0#0.0
+Bridge Smooth 1#Genesis3Female__Nose Bridge Smooth 1#-1.0#1.0#0.0
+Bridge Smooth 2#Genesis3Female__Nose Bridge Smooth 2#-1.0#1.0#0.0
+Proportion 1#Genesis3Female__Mouth Nose Proportion 1#-1.0#1.0#0.0
+Proportion 2#Genesis3Female__Mouth Nose Proportion 2#-1.0#1.0#0.0
+Proportion 3#Genesis3Female__Mouth Nose Proportion 3#-1.0#1.0#0.0
+Wing Width#Genesis3Female__Nose Wing Width#-1.0#1.0#0.0
+Wing Volume#Genesis3Female__Nose Wing Volume#-1.0#1.0#0.0
+Nose Scrunch#Genesis3Female__eCTRLNoseScrunch#-1.0#1.0#0.0
+*Lips*
+Part#Genesis3Female__eCTRLLipsPart#-0.194#0.45#0.0
+Thin Alt#Genesis3Female__Lips Thin Alt#-1.0#1.0#0.0
+Width Alt#Genesis3Female__Mouth Width Alt#-1.0#1.0#0.0
+Center Shape#Genesis3Female__Lips Center Shape#-1.0#1.0#0.0
+*Chin*
+Chin Scale#Genesis3Female__Chin Scale#-1.0#1.0#0.0
+Chin Rounded#Genesis3Female__Chin Rounded#-1.0#1.0#0.0
+Chin Pointed#Genesis3Female__Chin Pointed#-1.0#1.0#0.0
+Shape 1#Genesis3Female__Chin Shape 1#-1.0#1.0#0.0
+*Cheeks*
+Yong#Genesis3Female__Cheeks Young#-1.0#1.0#0.0
+Size Alt#Genesis3Female__Cheeks Size Alt#-1.0#1.0#0.0
+Lower Chubby 1#Genesis3Female__Cheeks Lower Chubby A#-1.0#1.0#0.0
+Dimple Crease#Genesis3Female__CTRLCheeksDimpleCreaseHD#-1.0#1.0#0.0
+*Eyebrows*
+Hieght#Genesis3Female__Brows Hieght#-0.685#0.366#0.0
+Arch#Genesis3Female__Brows Arch#-1.0#1.0#0.0
+Squeeze#head__eCTRLBrowSqueeze#-1.0#1.0#0.0
+Inner Height#Genesis3Female__Brows Inner Height#-1.0#1.0#0.0
+*Breasts*
+Squeezed#Genesis3Female__PBMBreastsCleavage#0.0#1.0#0.0
+In-Out#Genesis3Female__pCTRLBreastsIn-Out#-1.0#1.0#0.0
+Perk Side#Genesis3Female__PBMBreastsPerkSide#-1.0#1.0#0.0
+Diameter#Genesis3Female__PBMBreastsDiameter#0.0#1.0#0.0
+Heavy#Genesis3Female__PBMBreastsHeavy#0.0#1.0#0.0
+Natural#Genesis3Female__CTRLBreastsNatural#0.0#1.0#0.0
+Implants#Genesis3Female__CTRLBreastsImplants#0.0#1.0#0.0
+Slope#Genesis3Female__PBMBreastsDownwardSlope#0.0#1.0#0.0
+Bigger#Genesis3Female__PBMBreastsSize#0#1.0#0.0
+Very Small#Genesis3Female__PBMBreastsGone#0.0#1.0#0.0
+*Nipples*
+Perky#Genesis3Female__XandM_Nipples_01_Small#0.0#1.0#0.0
+Diameter#Genesis3Female__PBMNipplesDiameter#-1.0#1.0#0.0
+*Eyes*
+Depth#Genesis3Female__Eyes Depth Alt#-1.0#1.0#0.0
+Distance#Genesis3Female__Eyes Distance#-1.0#1.0#0.0
+Scale#Genesis3Female__Eyes Scale#-1.0#1.0#0.0
+Slant Out#Genesis3Female__Eyes Slant Out#-1.0#1.0#0.0
+Upper Inner#Genesis3Female__Eyes Upper Inner#-1.0#1.0#0.0
+Upper Outer#Genesis3Female__Eyes Upper Outer#-1.0#1.0#0.0
+Lacrimals Size#Genesis3Female__Eyes Lacrimals Small#-1.0#1.0#0.0
+Shape 1#Genesis3Female__Eyes Shape 13#0.0#1.0#0.0
+*Lower Body*
+Hips Size#Genesis3Female__PBMHipSize#-1.0#0.548#0.0
+Thighs Size#Genesis3Female__PBMThighsSize#-0.685#0.5#0.0
+Thighs Tone#Genesis3Female__PBMThighsTone#-1.0#1.0#0.0
+*Whole Body*
+Fitness#Genesis3Female__CTRLFitness#-1.0#1.0#0.0
+More Fitness#Genesis3Female__FBMFitnessSize#0.0#1.0#0.0
+Fitness Details#Genesis3Female__FBMFitnessDetails#0.0#1.0#0.0
+Overweight#Genesis3Female__CTRLWeight#0.0#0.436#0.0

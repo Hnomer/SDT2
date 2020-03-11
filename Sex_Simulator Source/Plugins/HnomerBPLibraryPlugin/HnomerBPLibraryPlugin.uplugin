@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HnomerBPLibraryPlugin",
+	"Description": "",
+	"Category": "Custom",
+	"CreatedBy": "Hnomer Studio",
+	"CreatedByURL": "https://www.patreon.com/hnomerstudio",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "HnomerBPLibraryPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms" :
+			[
+				"Win64",
+				"Win32",
+				"HTML5",
+				"Linux",
+				"OSX"
+			]
+		}
+	]
+}
